@@ -1,0 +1,55 @@
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Dom Casmurro', 'Machado de Assis', 1899, 1);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Memórias Póstumas de Brás Cubas', 'Machado de Assis', 1881, 2);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Alquimista', 'Paulo Coelho', 1988, 3);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Grande Sertão: Veredas', 'João Guimarães Rosa', 1956, 4);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Vidas Secas', 'Graciliano Ramos', 1938, 5);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Capitães da Areia', 'Jorge Amado', 1937, 6);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Cortiço', 'Aluísio Azevedo', 1890, 7);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Iracema', 'José de Alencar', 1865, 8);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('A Hora da Estrela', 'Clarice Lispector', 1977, 9);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Ensaio Sobre a Cegueira', 'José Saramago', 1995, 10);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Primo Basílio', 'José Maria de Eça de Queirós', 1878, 11);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Guarani', 'José de Alencar', 1557, 12);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Sagarana', 'João Guimarães Rosa', 1946, 13);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Macunaíma', 'Mário de Andrade', 1928, 14);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Fogo Morto', 'José Lins do Rego', 1943, 15);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Menino do Engenho', 'José Lins do Rego', 1932, 16);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Quinze', 'Rachel de Queiroz', 1930, 17);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Claro Enigma', 'Carlos Drummond de Andrade', 1951, 18);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('A Rosa do Povo', 'Carlos Drummond de Andrade', 1945, 19);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Morte e Vida Severina', 'João Cabral de Melo Neto', 1955, 20);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Dom Casmurro', 'Machado de Assis', 1899, 21);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Memórias Póstumas de Brás Cubas', 'Machado de Assis', 1881, 22);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Alquimista', 'Paulo Coelho', 1988, 23);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Grande Sertão: Veredas', 'João Guimarães Rosa', 1956, 24);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Vidas Secas', 'Graciliano Ramos', 1938, 25);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Capitães da Areia', 'Jorge Amado', 1937, 26);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Cortiço', 'Aluísio Azevedo', 1890, 27);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Iracema', 'José de Alencar', 1865, 28);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('A Hora da Estrela', 'Clarice Lispector', 1977, 29);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Ensaio Sobre a Cegueira', 'José Saramago', 1995, 30);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Primo Basílio', 'José Maria de Eça de Queirós', 1878, 31);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Guarani', 'José de Alencar', 1557, 32);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Sagarana', 'João Guimarães Rosa', 1946, 33);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Macunaíma', 'Mário de Andrade', 1928, 34);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Fogo Morto', 'José Lins do Rego', 1943, 35);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Menino do Engenho', 'José Lins do Rego', 1932, 36);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Quinze', 'Rachel de Queiroz', 1930, 37);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Claro Enigma', 'Carlos Drummond de Andrade', 1951, 38);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('A Rosa do Povo', 'Carlos Drummond de Andrade', 1945, 39);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Morte e Vida Severina', 'João Cabral de Melo Neto', 1955, 40);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Dom Casmurro', 'Machado de Assis', 1899, 41);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Memórias Póstumas de Brás Cubas', 'Machado de Assis', 1881, 42);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Alquimista', 'Paulo Coelho', 1988, 43);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Grande Sertão: Veredas', 'João Guimarães Rosa', 1956, 44);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Vidas Secas', 'Graciliano Ramos', 1938, 45);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Capitães da Areia', 'Jorge Amado', 1937, 46);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('O Cortiço', 'Aluísio Azevedo', 1890, 47);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Iracema', 'José de Alencar', 1865, 48);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('A Hora da Estrela', 'Clarice Lispector', 1977, 49);
+INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Ensaio Sobre a Cegueira', 'José Saramago', 1995, 50);
+
+
+
+
+INSERT INTO Livros (titulo, autor, biblioteca_id) VALUES ('Ensaio Sobre a Cegueira', 'José Saramago', 50);
