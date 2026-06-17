@@ -47,4 +47,9 @@ INSERT INTO Biblioteca (nome, endereco, cidade, categoria) VALUES ('Biblioteca C
 INSERT INTO Biblioteca (nome, endereco, cidade, categoria) VALUES ('Biblioteca Pública do Paraná - Anexo 5', 'R. Cândido Lopes, 133, 146', 'Curitiba', 'estadual');
 INSERT INTO Biblioteca (nome, endereco, cidade, categoria) VALUES ('Biblioteca Central da UFPE - Anexo 5', 'Av. Prof. Moraes Rego, 1235, 147', 'Recife', 'estadual');
 INSERT INTO Biblioteca (nome, endereco, cidade, categoria) VALUES ('Biblioteca Pública do Estado do Rio Grande do Sul - Anexo 5', 'R. Riachuelo, 1190, 148', 'Porto Alegre', 'estadual');
+
 INSERT INTO Biblioteca (nome, endereco, cidade, categoria) VALUES ('Biblioteca Municipal de Manaus - Anexo 5', 'R. Barroso, 57, 149', 'Manaus', 'municipal');
+
+INSERT INTO Biblioteca (nome, endereco, cidade, categoria) VALUES ('Biblioteca Municipal de Manaus - Anexo 6', 'R. Barroso, 57, 149', 'Manaus', 'municipal');
+
+INSERT INTO Biblioteca (nome, endereco, cidade, categoria) VALUES ('Biblioteca Municipal de Guaraus', 'R. das Lagrimas, 57, 149', 'Guaraus', 'municipal');

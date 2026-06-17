@@ -52,4 +52,5 @@ INSERT INTO Livros (titulo, autor, ano_publicacao, biblioteca_id) VALUES ('Ensai
 
 
 
+INSERT INTO Livros (titulo, autor) VALUES ('Ensaio Sobre a Ensaios', 'Mauro Morelli');
 INSERT INTO Livros (titulo, autor, biblioteca_id) VALUES ('Ensaio Sobre a Cegueira', 'José Saramago', 50);
